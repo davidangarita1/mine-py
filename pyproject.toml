@@ -1,0 +1,11 @@
+[project]
+name = "mine-py"
+dynamic = ["version"]
+description = "Demo of a little tutorial of minecraft"
+readme = "README.md"
+requires-python = ">=3.12"
+license.file = "LICENSE"
+authors = [
+    { name = "David Angarita", email = "davidangarita.sistemas@gmail.com" },
+]
+dependencies = []
