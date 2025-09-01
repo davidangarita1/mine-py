@@ -8,4 +8,6 @@ license.file = "LICENSE"
 authors = [
     { name = "David Angarita", email = "davidangarita.sistemas@gmail.com" },
 ]
-dependencies = []
+dependencies = [
+    "ursina>=8.1.1",
+]
